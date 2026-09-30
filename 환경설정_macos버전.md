@@ -1,4 +1,4 @@
-# FATI 환경설정_Mac_OS_ver.
+# 환경설정_Mac_OS_ver.
 
 # 목차
 
