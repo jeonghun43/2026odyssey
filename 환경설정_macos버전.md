@@ -470,7 +470,7 @@ dr-update-env
 
 # 4. 트랙 이름 변경
 
-학습에 사용할 트랙을 `reInvent2019_track`으로 변경합니다.
+학습에 사용할 트랙을 `reinvent_base`으로 변경합니다.
 
 프로젝트 폴더에서 `run.env` 파일을 엽니다.
 
@@ -487,7 +487,7 @@ DR_WORLD_NAME=reinvent_base
 아래와 같이 변경합니다.
 
 ```text
-DR_WORLD_NAME=reInvent2019_track
+DR_WORLD_NAME=reinvent_base
 ```
 
 저장:
@@ -513,7 +513,7 @@ dr-summary
 다음과 같이 표시되면 정상적으로 적용된 것입니다.
 
 ```text
-World / track    reInvent2019_track
+World / track    reinvent_base
 ```
 
 ---
